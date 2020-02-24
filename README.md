@@ -1,4 +1,4 @@
-# GMM-UBM-with-MSR-Idendity-Toolkit-
+# 使用MSR-Idendity-toolkit 做GMM-UBM实验的过程记录
 speaker recognitiong using GMM-UBM, implementing on MSR-Idendity-toolkit.
 ### 零、准备工作
 
